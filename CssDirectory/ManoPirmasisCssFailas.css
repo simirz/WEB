@@ -1,0 +1,33 @@
+div.side_Bar ul li.elem a {
+    color: black;
+    font-family: Verdana, Arial;
+    text-align: left;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+h1 {
+    color: Black;
+    font-family: Verdana, Arial;
+    font-size: 40px;
+    text-weight: bold;
+    text-align: center;
+    text-decoration:none;
+    text-transform: none;
+}
+div.Title {
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Arial;
+    font-size: 30px;
+}
+div.divider div {
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Arial;
+    font-size: 30px;
+}
+div.Right_side article p {
+    font-family: Verdana, Arial;
+    font-size: 10px;
+}

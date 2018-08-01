@@ -1,0 +1,10 @@
+span.balta {
+    background-color: white;
+}
+span.juoda {
+    background-color: black;
+}
+.cell{
+    width: 30px;
+    height: 30px;
+}
