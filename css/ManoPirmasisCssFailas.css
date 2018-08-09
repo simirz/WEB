@@ -1,4 +1,21 @@
-.Menu {
+
+.elem a {
+    display: inline;
+    background-color: white;
+    border: solid;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-width: thin;
+    border-color: lightgrey;
+    text-decoration: none;
+    text-emphasis-color: black;
+}
+
+.Menu ul {
+    display: flex;
+    justify-content: space-around;
 
 }
 
@@ -31,28 +48,30 @@ div.Right_side article p {
     font-size: 10px;
 }
 
-footer.border {
+/*footer.border {
+
     border-style: solid;
     border-top-width: 1px;
     border-color: grey;
     border-bottom-style: inherit;
-}
+}*/
 
-div.border {
+/*div.border {
     border-style: solid;
     border-width: 1px;
     border-color: grey;
-}
+}*/
 
 .logoCenter {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
-    background-color: #dadde1;
+    background-color: white;
+
 }
 
-html {
-    height: 100%;
+.logo_crop {
+    width: 150px;
+    height: 50px;
 }
-

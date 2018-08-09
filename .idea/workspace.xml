@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0920e0dc-08d3-4759-8a94-47a472226675" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Lempute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Skaiciuokle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/failas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery_lempute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/matematika.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/public.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/public.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CssDirectory/ManoPirmasisCssFailas.css" beforeDir="false" afterPath="$PROJECT_DIR$/CssDirectory/ManoPirmasisCssFailas.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CssDirectory/CssReset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CssDirectory/ManoPirmasisCssFailas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CssDirectory/Sachmatai.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontaktai.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontaktai.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,12 +30,20 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="136">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="31" />
               <folding>
-                <element signature="n#p#0;n#article#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#2157#2163#0" expanded="true" />
+                <element signature="e#2771#2777#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grid.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/grid.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -31,8 +51,8 @@
       <file leaf-file-name="kontaktai.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kontaktai.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="153">
+              <caret line="34" column="65" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="65" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#article#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#1966#1972#0" expanded="true" />
@@ -41,29 +61,56 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ManoPirmasisCssFailas.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/ManoPirmasisCssFailas.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="71" column="1" lean-forward="true" selection-start-line="64" selection-end-line="71" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="105" column="40" lean-forward="true" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
+            <state relative-caret-position="169">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ManoPirmasisCssFailas.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CssDirectory/ManoPirmasisCssFailas.css">
+      <file leaf-file-name="Sachmatai.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/Sachmatai.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="10" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CssReset.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CssDirectory/CssReset.css">
+      <file leaf-file-name="jquery_lempute.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jquery_lempute.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+            <state relative-caret-position="357">
+              <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="failas.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/failas.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="67" lean-forward="true" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animation.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/Animation.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -74,9 +121,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sidebar</find>
+      <find>/* border: 1px solid</find>
+      <find>foot</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,12 +145,24 @@
         <option value="$PROJECT_DIR$/Portfolio.html" />
         <option value="$PROJECT_DIR$/CssDirectory/Css.css" />
         <option value="$PROJECT_DIR$/CssDirectory/Sachmatai.css" />
-        <option value="$PROJECT_DIR$/kontaktai.html" />
         <option value="$PROJECT_DIR$/CssDirectory/Smile.css" />
         <option value="$PROJECT_DIR$/CssDirectory/smile.html" />
-        <option value="$PROJECT_DIR$/portfolio.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CssDirectory/ManoPirmasisCssFailas.css" />
+        <option value="$PROJECT_DIR$/CssDirectory/Animation.css" />
+        <option value="$PROJECT_DIR$/js/Matem.html" />
+        <option value="$PROJECT_DIR$/css/Animation.css" />
+        <option value="$PROJECT_DIR$/js/matematika.js" />
+        <option value="$PROJECT_DIR$/js/Skaiciuokle.js" />
+        <option value="$PROJECT_DIR$/js/Lempute.js" />
+        <option value="$PROJECT_DIR$/css/Style.css" />
+        <option value="$PROJECT_DIR$/kontaktai.html" />
+        <option value="$PROJECT_DIR$/css/Sachmatai.css" />
+        <option value="$PROJECT_DIR$/css/ManoPirmasisCssFailas.css" />
+        <option value="$PROJECT_DIR$/js/jquery_lempute.js" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/js/failas.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/grid.css" />
       </list>
     </option>
   </component>
@@ -127,7 +197,7 @@
             <path>
               <item name="public" type="b2602c69:ProjectViewProjectNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="CssDirectory" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,6 +213,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -161,10 +232,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public/index.html" />
     <configuration name="kontaktai.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public/kontaktai.html" />
+    <configuration name="matematika.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="matematika.js" working-dir="$PROJECT_DIR$/js" />
+    <list>
+      <item itemvalue="JavaScript Debug.kontaktai.html" />
+      <item itemvalue="Node.js.matematika.js" />
+      <item itemvalue="JavaScript Debug.index.html" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.matematika.js" />
         <item itemvalue="JavaScript Debug.kontaktai.html" />
       </list>
     </recent_temporary>
@@ -180,12 +260,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532972365649</updated>
       <workItem from="1532972366910" duration="3547000" />
-      <workItem from="1533052619356" duration="26308000" />
+      <workItem from="1533052619356" duration="76117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29855000" />
+    <option name="totallyTimeSpent" value="79664000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -205,11 +285,11 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32913387" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24670571" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.12440945" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -233,8 +313,7 @@
         <state relative-caret-position="595">
           <caret line="35" column="108" selection-start-line="35" selection-start-column="108" selection-end-line="35" selection-end-column="108" />
           <folding>
-            <element signature="n#p#0;n#article#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#2157#2163#0" expanded="true" />
+            <element signature="e#2771#2777#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -256,24 +335,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="105" column="40" lean-forward="true" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kontaktai.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#article#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1966#1972#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CssDirectory/CssReset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
@@ -281,21 +342,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/CssDirectory/ManoPirmasisCssFailas.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CssDirectory/Animation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Matem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/matematika.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Skaiciuokle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Lempute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Animation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logo_crop.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontaktai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="34" column="65" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="65" />
           <folding>
-            <element signature="n#p#0;n#article#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#2157#2163#0" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#article#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1966#1972#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CssDirectory/ManoPirmasisCssFailas.css">
+    <entry file="file://$PROJECT_DIR$/js/failas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="67" lean-forward="true" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery_lempute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ManoPirmasisCssFailas.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="71" column="1" lean-forward="true" selection-start-line="64" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Sachmatai.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="10" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#2771#2777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>

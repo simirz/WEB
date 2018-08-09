@@ -1,0 +1,24 @@
+/* animacijos kodas*/
+@keyframes examples {
+    /*  from {
+          background-color: red;
+      }
+      to {
+          background-color: yellow;*/
+/*    0% {
+        background-color: #b3d7ff;
+    }
+    90% {
+        background-color: white;
+    }
+    100% {
+        background-color: #b3d7ff;
+    }*/
+}
+
+/*elementas kuriam taikysime animacija*/
+/*
+div {
+    background-color: white;
+    animation: examples 10s infinite;
+}*/
